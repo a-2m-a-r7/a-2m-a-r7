@@ -5,7 +5,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://ammartahoun.online" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=620&lines=Hi+there%2C+I'm+Ammar+Tahoon+%F0%9F%91%8B;AI+Engineering+Student+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Computer+Vision+%26+NLP+Explorer+%F0%9F%94%8D;C%23+%2F+WPF+Desktop+Tools+%26+Simulators+%E2%9A%99%EF%B8%8F;Building+the+Future+with+AI+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Ammar+Tahoon+%F0%9F%91%8B;AI+Engineering+Student+%F0%9F%A4%96;Creator+of+AI+Quest%3A+Engineer+Path+%F0%9F%9A%80;C%23+%2F+WPF+Simulators+%26+Tools+%E2%9A%A1;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Building+the+Future+with+AI+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -46,10 +46,11 @@ Philosophy: "Connect intelligent models with robust, usable software."
 ```
 
 - 🎓 **Academic Journey**: Studying Artificial Intelligence Engineering at **Innovation University**, building rock-solid foundations in algorithms, mathematics, and intelligent systems.
-- 🧠 **AI & Machine Learning**: Actively training and experimenting with neural networks, ML predictive models, image processing pipelines, and NLP applications.
-- 💻 **Software Engineering**: Developing desktop utilities, algorithms, and interactive physics simulators using **C#** and **WPF**.
-- 🌐 **Modern Web Interfaces**: Crafting cinematic, reactive web applications and AI-driven interfaces with **React**, **JavaScript**, and modern styling.
-- 🚀 **Featured Portfolio**: Explore my interactive projects and case studies at **[ammartahoun.online](https://ammartahoun.online/)**.
+- 🚀 **AI Quest: Engineer Path**: Creator of [AI Quest: Engineer Path](https://github.com/a-2m-a-r7/ai-quest-engineer-path), a gamified desktop application (React 19 + Electron + Vite) guiding learners through 8 worlds & 39 topics to master AI Engineering.
+- ⚡ **Desktop & Simulation Engineering**: Developing high-performance desktop utilities and scientific tools in **C#** and **WPF (.NET 9)**, including [CircuitSim Pro](https://github.com/a-2m-a-r7/circuit-sim-pro) (interactive physics lab & oscilloscope) and [Base Calc 2](https://github.com/a-2m-a-r7/base-calc-2) (multi-base number converter).
+- 🎮 **Game Development**: Designed [Dino Game Pro](https://github.com/a-2m-a-r7/dino-game-pro), a native Windows arcade runner built from scratch with C# WPF.
+- 🌐 **Modern Web & Desktop UIs**: Crafting cinematic, reactive interfaces with **React 19**, **Electron**, **Vite**, **Tailwind CSS**, and modern JavaScript.
+- 🚀 **Featured Portfolio**: Explore my full interactive case studies and projects at **[ammartahoun.online](https://ammartahoun.online/)**.
 
 ---
 
@@ -69,19 +70,21 @@ Philosophy: "Connect intelligent models with robust, usable software."
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-#### 🖥️ Desktop, Software & Languages
+#### 🖥️ Desktop, Software & Native Runtime
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/.NET-9.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 9" />
   <img src="https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Algorithms-4B0082?style=for-the-badge&logoColor=white" alt="Algorithms" />
 </p>
 
 #### 🌐 Web Development & Modern Frontend
 <p align="center">
+  <img src="https://img.shields.io/badge/React-19.x-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -101,19 +104,19 @@ Philosophy: "Connect intelligent models with robust, usable software."
 
 ---
 
-### 🌟 Featured Highlights & Projects
+### 🌟 Featured Highlights & Open Source Projects
 
 <div align="center">
 
-| Project | Domain | Stack | Description |
+| Project | Domain | Stack | Description & Links |
 | :--- | :---: | :---: | :--- |
-| **[AI Quest: Engineer Path](https://github.com/a-2m-a-r7/ai-quest-engineer-path)** | `Desktop AI` | `React 19` `Electron` `Vite` | Gamified interactive desktop roadmap & progress tracker for mastering modern AI Engineering. |
-| **[SmartMall AI OS](https://github.com/a-2m-a-r7/smartmall-ai-os)** | `AI System` | `Python` `AI Workflows` | Intelligent operating system concepts designed for smart shopping centers & automated flows. |
-| **[CircuitSim Pro](https://github.com/a-2m-a-r7/circuit-sim-pro)** | `Simulation` | `C#` `WPF` `.NET 9` | Interactive virtual physics lab simulating electrical circuits, bulbs, resistors, voltmeters, and ammeters. |
-| **[Base Calc 2](https://github.com/a-2m-a-r7/base-calc-2)** | `Desktop` | `C#` `WPF` `.NET 9` | Desktop utility for multi-base numbering conversions & arithmetic operations with a sleek UI. |
-| **[Dino Game Pro](https://github.com/a-2m-a-r7/dino-game-pro)** | `Game` | `C#` `WPF` `.NET 9` | High-performance Windows desktop endless runner game with smooth physics and score tracking. |
-| **[AI Pharmacy Platform](https://ammartahoun.online/#projects)** | `Full-Stack AI` | `React` `AI` `Database` | End-to-end modern digital pharmacy platform empowered by AI-driven user interaction and workflows. |
-| **[Volunteer Presentation](https://github.com/a-2m-a-r7/volunteer-presentation)** | `Web` | `HTML5` `CSS3` `JS` | Interactive presentation platform showcasing volunteer club activities and initiatives. |
+| **[AI Quest: Engineer Path](https://github.com/a-2m-a-r7/ai-quest-engineer-path)** | `Desktop AI Platform` | `React 19` `Electron` `Vite` | Gamified interactive desktop roadmap & progress tracker for mastering modern AI Engineering (8 worlds, 39 topics, boss fights). <br/> [📦 **Repository**](https://github.com/a-2m-a-r7/ai-quest-engineer-path) |
+| **[CircuitSim Pro](https://github.com/a-2m-a-r7/circuit-sim-pro)** | `Physics Simulation` | `C#` `WPF` `.NET 9` | Interactive virtual physics lab simulating electrical circuits, real-time Ohm's law telemetry, and oscilloscope time graphing. <br/> [⚡ **Repository**](https://github.com/a-2m-a-r7/circuit-sim-pro) |
+| **[Base Calc 2](https://github.com/a-2m-a-r7/base-calc-2)** | `Desktop Utility` | `C#` `WPF` `.NET 9` | Desktop utility for multi-base numbering conversions (Bin, Oct, Dec, Hex) & arithmetic operations with a sleek UI. <br/> [🔢 **Repository**](https://github.com/a-2m-a-r7/base-calc-2) |
+| **[Dino Game Pro](https://github.com/a-2m-a-r7/dino-game-pro)** | `Desktop Game` | `C#` `WPF` `.NET 9` | High-performance Windows endless runner arcade game featuring smooth 60fps canvas physics and high-score saves. <br/> [🦖 **Repository**](https://github.com/a-2m-a-r7/dino-game-pro) |
+| **[SmartMall AI OS](https://github.com/a-2m-a-r7/smartmall-ai-os)** | `AI System` | `Python` `AI Workflows` | Intelligent operating system concepts designed for smart shopping centers & automated flows. <br/> [🛒 **Repository**](https://github.com/a-2m-a-r7/smartmall-ai-os) |
+| **[Volunteer Presentation](https://github.com/a-2m-a-r7/volunteer-presentation)** | `Web Application` | `HTML5` `CSS3` `JavaScript` | Interactive presentation platform showcasing volunteer club activities and initiatives. <br/> [🤝 **Repository**](https://github.com/a-2m-a-r7/volunteer-presentation) |
+| **[AI Pharmacy Platform](https://ammartahoun.online/#projects)** | `Full-Stack AI` | `React` `AI` `Database` | End-to-end modern digital pharmacy platform empowered by AI-driven user interaction and workflows. <br/> [🌐 **Case Study**](https://ammartahoun.online/#projects) |
 
 </div>
 
