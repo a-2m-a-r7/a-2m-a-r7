@@ -107,11 +107,11 @@ Philosophy: "Connect intelligent models with robust, usable software."
 
 | Project | Domain | Stack | Description |
 | :--- | :---: | :---: | :--- |
-| **[SmartMall AI OS](https://github.com/mart33645-wq/smartmall-ai-os)** | `AI System` | `Python` `AI Workflows` | Intelligent operating system concepts designed for smart shopping centers & automated flows. |
+| **[SmartMall AI OS](https://github.com/a-2m-a-r7/smartmall-ai-os)** | `AI System` | `Python` `AI Workflows` | Intelligent operating system concepts designed for smart shopping centers & automated flows. |
 | **[Base Calc](https://ammartahoun.online/#projects)** | `Desktop` | `C#` `WPF` `Algorithms` | Desktop utility for complex base conversion & number-system operations with a sleek educational UI. |
 | **[Mini Physics Lab Simulator](https://ammartahoun.online/#projects)** | `Simulation` | `C#` `WPF` `Physics` | Interactive virtual physics lab simulating electrical circuits, bulbs, resistors, voltmeters, and ammeters. |
 | **[AI Pharmacy Platform](https://ammartahoun.online/#projects)** | `Full-Stack AI` | `React` `AI` `Database` | End-to-end modern digital pharmacy platform empowered by AI-driven user interaction and workflows. |
-| **[Volunteer Presentation](https://github.com/mart33645-wq/volunteer-presentation)** | `Web` | `HTML5` `CSS3` `JS` | Interactive presentation platform showcasing volunteer club activities and initiatives. |
+| **[Volunteer Presentation](https://github.com/a-2m-a-r7/volunteer-presentation)** | `Web` | `HTML5` `CSS3` `JS` | Interactive presentation platform showcasing volunteer club activities and initiatives. |
 
 </div>
 
@@ -123,15 +123,15 @@ Philosophy: "Connect intelligent models with robust, usable software."
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mart33645-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=22d3ee&icon_color=a855f7&text_color=94a3b8" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-2m-a-r7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=22d3ee&icon_color=a855f7&text_color=94a3b8" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart33645-wq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-2m-a-r7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mart33645-wq&theme=tokyonight&hide_border=true&background=0a0f1d&stroke=22d3ee&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" alt="Streak Stats" />
+        <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=a-2m-a-r7&theme=tokyonight&hide_border=true&background=0a0f1d&stroke=22d3ee&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" alt="Streak Stats" />
       </td>
     </tr>
   </table>
