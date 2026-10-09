@@ -107,9 +107,11 @@ Philosophy: "Connect intelligent models with robust, usable software."
 
 | Project | Domain | Stack | Description |
 | :--- | :---: | :---: | :--- |
+| **[AI Quest: Engineer Path](https://github.com/a-2m-a-r7/ai-quest-engineer-path)** | `Desktop AI` | `React 19` `Electron` `Vite` | Gamified interactive desktop roadmap & progress tracker for mastering modern AI Engineering. |
 | **[SmartMall AI OS](https://github.com/a-2m-a-r7/smartmall-ai-os)** | `AI System` | `Python` `AI Workflows` | Intelligent operating system concepts designed for smart shopping centers & automated flows. |
-| **[Base Calc](https://ammartahoun.online/#projects)** | `Desktop` | `C#` `WPF` `Algorithms` | Desktop utility for complex base conversion & number-system operations with a sleek educational UI. |
-| **[Mini Physics Lab Simulator](https://ammartahoun.online/#projects)** | `Simulation` | `C#` `WPF` `Physics` | Interactive virtual physics lab simulating electrical circuits, bulbs, resistors, voltmeters, and ammeters. |
+| **[CircuitSim Pro](https://github.com/a-2m-a-r7/circuit-sim-pro)** | `Simulation` | `C#` `WPF` `.NET 9` | Interactive virtual physics lab simulating electrical circuits, bulbs, resistors, voltmeters, and ammeters. |
+| **[Base Calc 2](https://github.com/a-2m-a-r7/base-calc-2)** | `Desktop` | `C#` `WPF` `.NET 9` | Desktop utility for multi-base numbering conversions & arithmetic operations with a sleek UI. |
+| **[Dino Game Pro](https://github.com/a-2m-a-r7/dino-game-pro)** | `Game` | `C#` `WPF` `.NET 9` | High-performance Windows desktop endless runner game with smooth physics and score tracking. |
 | **[AI Pharmacy Platform](https://ammartahoun.online/#projects)** | `Full-Stack AI` | `React` `AI` `Database` | End-to-end modern digital pharmacy platform empowered by AI-driven user interaction and workflows. |
 | **[Volunteer Presentation](https://github.com/a-2m-a-r7/volunteer-presentation)** | `Web` | `HTML5` `CSS3` `JS` | Interactive presentation platform showcasing volunteer club activities and initiatives. |
 
