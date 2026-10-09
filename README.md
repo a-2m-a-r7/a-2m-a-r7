@@ -118,7 +118,6 @@ Philosophy: "Connect intelligent models with robust, usable software."
 | **[Base Calc 2](https://github.com/a-2m-a-r7/base-calc-2)** | `Desktop Utility` | `C#` `WPF` `.NET 9` | Desktop utility for multi-base numbering conversions (Bin, Oct, Dec, Hex) & arithmetic operations with a sleek UI. <br/> [🔢 **Repository**](https://github.com/a-2m-a-r7/base-calc-2) |
 | **[Dino Game Pro](https://github.com/a-2m-a-r7/dino-game-pro)** | `Desktop Game` | `C#` `WPF` `.NET 9` | High-performance Windows endless runner arcade game featuring smooth 60fps canvas physics and high-score saves. <br/> [🦖 **Repository**](https://github.com/a-2m-a-r7/dino-game-pro) |
 | **[Volunteer Presentation](https://github.com/a-2m-a-r7/volunteer-presentation)** | `Web Application` | `HTML5` `CSS3` `JavaScript` | Interactive presentation platform showcasing volunteer club activities and initiatives. <br/> [🤝 **Repository**](https://github.com/a-2m-a-r7/volunteer-presentation) |
-| **[AI Pharmacy Platform](https://ammartahoun.online/#projects)** | `Full-Stack AI` | `React` `AI` `Database` | End-to-end modern digital pharmacy platform empowered by AI-driven user interaction and workflows. <br/> [🌐 **Case Study**](https://ammartahoun.online/#projects) |
 
 </div>
 
