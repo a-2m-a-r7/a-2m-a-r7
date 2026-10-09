@@ -46,10 +46,11 @@ Philosophy: "Connect intelligent models with robust, usable software."
 ```
 
 - 🎓 **Academic Journey**: Studying Artificial Intelligence Engineering at **Innovation University**, building rock-solid foundations in algorithms, mathematics, and intelligent systems.
-- 🚀 **AI Quest: Engineer Path**: Creator of [AI Quest: Engineer Path](https://github.com/a-2m-a-r7/ai-quest-engineer-path), a gamified desktop application (React 19 + Electron + Vite) guiding learners through 8 worlds & 39 topics to master AI Engineering.
+- 🌐 **Personal AI Portfolio**: Creator of [ammar-tahoun-](https://github.com/a-2m-a-r7/ammar-tahoun-), a full-stack portfolio platform deployed live at **[ammartahoun.online](https://ammartahoun.online/)** (React 19, Tailwind CSS 4, Framer Motion, Node.js).
+- 🚀 **AI Quest: Engineer Path**: Architect of [ai-quest-engineer-path](https://github.com/a-2m-a-r7/ai-quest-engineer-path), a gamified desktop application (React 19 + Electron + Vite) guiding learners through 8 worlds & 39 topics to master AI Engineering.
+- 🛒 **SmartMall AI OS**: Author of [smartmall-ai-os](https://github.com/a-2m-a-r7/smartmall-ai-os), an intelligent operating system designed for smart shopping centers and automated visitor flows.
 - ⚡ **Desktop & Simulation Engineering**: Developing high-performance desktop utilities and scientific tools in **C#** and **WPF (.NET 9)**, including [CircuitSim Pro](https://github.com/a-2m-a-r7/circuit-sim-pro) (interactive physics lab & oscilloscope) and [Base Calc 2](https://github.com/a-2m-a-r7/base-calc-2) (multi-base number converter).
-- 🎮 **Game Development**: Designed [Dino Game Pro](https://github.com/a-2m-a-r7/dino-game-pro), a native Windows arcade runner built from scratch with C# WPF.
-- 🌐 **Modern Web & Desktop UIs**: Crafting cinematic, reactive interfaces with **React 19**, **Electron**, **Vite**, **Tailwind CSS**, and modern JavaScript.
+- 🎮 **Game Development**: Designed [Dino Game Pro](https://github.com/a-2m-a-r7/dino-game-pro), a native Windows arcade runner built with C# WPF (.NET 9).
 - 🚀 **Featured Portfolio**: Explore my full interactive case studies and projects at **[ammartahoun.online](https://ammartahoun.online/)**.
 
 ---
@@ -110,11 +111,12 @@ Philosophy: "Connect intelligent models with robust, usable software."
 
 | Project | Domain | Stack | Description & Links |
 | :--- | :---: | :---: | :--- |
+| **[Ammar Tahoon Portfolio](https://github.com/a-2m-a-r7/ammar-tahoun-)** | `Personal Portfolio` | `React 19` `Tailwind CSS 4` `Node.js` | Official modern AI engineering portfolio website featuring dynamic project galleries, admin CMS dashboard, and interactive case studies. <br/> [💻 **Repository**](https://github.com/a-2m-a-r7/ammar-tahoun-) &nbsp;•&nbsp; [🌐 **Live Website**](https://ammartahoun.online) |
 | **[AI Quest: Engineer Path](https://github.com/a-2m-a-r7/ai-quest-engineer-path)** | `Desktop AI Platform` | `React 19` `Electron` `Vite` | Gamified interactive desktop roadmap & progress tracker for mastering modern AI Engineering (8 worlds, 39 topics, boss fights). <br/> [📦 **Repository**](https://github.com/a-2m-a-r7/ai-quest-engineer-path) |
+| **[SmartMall AI OS](https://github.com/a-2m-a-r7/smartmall-ai-os)** | `AI System` | `Python` `AI Workflows` `Docker` | Intelligent operating system architecture concepts designed for smart shopping centers, automated visitor flows, and AI analytics. <br/> [🛒 **Repository**](https://github.com/a-2m-a-r7/smartmall-ai-os) |
 | **[CircuitSim Pro](https://github.com/a-2m-a-r7/circuit-sim-pro)** | `Physics Simulation` | `C#` `WPF` `.NET 9` | Interactive virtual physics lab simulating electrical circuits, real-time Ohm's law telemetry, and oscilloscope time graphing. <br/> [⚡ **Repository**](https://github.com/a-2m-a-r7/circuit-sim-pro) |
 | **[Base Calc 2](https://github.com/a-2m-a-r7/base-calc-2)** | `Desktop Utility` | `C#` `WPF` `.NET 9` | Desktop utility for multi-base numbering conversions (Bin, Oct, Dec, Hex) & arithmetic operations with a sleek UI. <br/> [🔢 **Repository**](https://github.com/a-2m-a-r7/base-calc-2) |
 | **[Dino Game Pro](https://github.com/a-2m-a-r7/dino-game-pro)** | `Desktop Game` | `C#` `WPF` `.NET 9` | High-performance Windows endless runner arcade game featuring smooth 60fps canvas physics and high-score saves. <br/> [🦖 **Repository**](https://github.com/a-2m-a-r7/dino-game-pro) |
-| **[SmartMall AI OS](https://github.com/a-2m-a-r7/smartmall-ai-os)** | `AI System` | `Python` `AI Workflows` | Intelligent operating system concepts designed for smart shopping centers & automated flows. <br/> [🛒 **Repository**](https://github.com/a-2m-a-r7/smartmall-ai-os) |
 | **[Volunteer Presentation](https://github.com/a-2m-a-r7/volunteer-presentation)** | `Web Application` | `HTML5` `CSS3` `JavaScript` | Interactive presentation platform showcasing volunteer club activities and initiatives. <br/> [🤝 **Repository**](https://github.com/a-2m-a-r7/volunteer-presentation) |
 | **[AI Pharmacy Platform](https://ammartahoun.online/#projects)** | `Full-Stack AI` | `React` `AI` `Database` | End-to-end modern digital pharmacy platform empowered by AI-driven user interaction and workflows. <br/> [🌐 **Case Study**](https://ammartahoun.online/#projects) |
 
